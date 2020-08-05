@@ -1,7 +1,6 @@
 # Immune Cell Signatures Database
 
-Check wiki for more information https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki
-
+Check [wiki](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki) for more information 
 CloudThingies--SettingupSDKandFirebaseForProjects
 
 Make a hyperlinakable index here 
