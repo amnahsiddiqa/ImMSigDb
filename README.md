@@ -11,7 +11,7 @@ on CloudThingies like --SettingupSDKandFirebaseForProjects
 
 [2.Setting up a Conda venv for GCP SDK firebase client libraries in Isolation](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/2.Setting-up-a-Conda-venv-for-GCP-SDK-firebase-client-libraries-in-Isolation)
 
-3.Firestore](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/3.Firestore)
+[3.Firestore](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/3.Firestore)
 
 [4.Adding, Updating, Querying data in FireStore](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/4.Adding,-Updating,-Querying-data-in-FireStore)
 
