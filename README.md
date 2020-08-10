@@ -4,7 +4,7 @@ Check [wiki](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDat
 on CloudThingies like --SettingupSDKandFirebaseForProjects
 ***
 ## ImmuneData--Database
-ImmuneData is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/3.Firestore) .
+ImmuneData is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki) .
 
 **Details on Added Data**
 Click on the link to view whats on GCP for now!
