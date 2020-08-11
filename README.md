@@ -25,6 +25,7 @@ Click on the link to view whats on GCP for now!
 ## Future modeling
 
 *  scRNA seq---Pipeline (GitHub--pipeline--working) ---prediction --data sets ---- using GRN inference algorithms 
+* Li BTMs new version--Discuss
 
 ***
 
