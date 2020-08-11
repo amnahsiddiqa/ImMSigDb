@@ -19,7 +19,7 @@ Click on the link to view whats on GCP for now!
 **Ontologies to discuss**
 
 * CellPedia
-* Cell Ontology
+* Cell Ontology--https://bioportal.bioontology.org/ontologies/CL
 
 ***
 ## Future modeling
