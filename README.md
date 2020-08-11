@@ -18,7 +18,7 @@ Click on the link to view whats on GCP for now!
 
 **Ontologies to discuss**
 
-* CellPedia
+* CellPedia--https://stemcellinformatics.org
 * Cell Ontology--https://bioportal.bioontology.org/ontologies/CL
 
 ***
