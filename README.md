@@ -28,6 +28,9 @@ Click on the link to view whats on GCP for now!
 * Li BTMs new version--Discuss
 
 ***
+# Connecting VCS with GCP -- Github for myself
+Adding directly my git repo to monitor staging and version releases scripts for data for now.
+Demonstration [here](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/Mirror-Git-repo)
 
 ***
 # Table of Contents
