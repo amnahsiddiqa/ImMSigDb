@@ -13,7 +13,7 @@ Click on the link to view whats on GCP for now!
 * DC-Modules--Done--Details to add
 * Nature immunology review John Wherry, U penn,  immunotherapy gene sets
 * [CELL MARKER DB](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/CellMarker_Data)--Done
-* Monaco et al 2019-- cell reports rna seq deconvolution data --Done details to add
+* [Monaco et al 2019](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneCellSignaturesDatabase/wiki/Monaco-et-al-(2019))-- cell reports rna seq deconvolution data --Done details to add
 * Human Cell Atlas
 
 **Ontologies to discuss**
