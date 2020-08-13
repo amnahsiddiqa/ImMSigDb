@@ -10,7 +10,7 @@ Click on the link to view whats on GCP for now!
 * Nature immunology review John Wherry, U penn,  immunotherapy gene sets
 * [CELL MARKER DB](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/CellMarker_Data)--Done
 * [Monaco et al 2019](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Monaco-et-al-(2019))-- cell reports rna seq deconvolution data --Done details to add
-* [Human Cell Atlas](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Human-Cell-Atlas-(HCA))
+* [Human Cell Atlas](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Human-Cell-Atlas-(HCA))--Discuss
 
 **Ontologies to discuss**
 
