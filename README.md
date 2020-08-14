@@ -45,7 +45,7 @@ Click on the link to view whats on GCP for now!
 *  scRNA seq---Pipeline (GitHub--pipeline--working) ---prediction --data sets ---- using GRN inference algorithms 
 * Li BTMs new version--Discuss
 
-## Check Data
+## Check scrNA seq Data here
 https://www.ebi.ac.uk/gxa/sc/experiments
 
 ***
