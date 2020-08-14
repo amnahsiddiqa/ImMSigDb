@@ -29,6 +29,8 @@ Click on the link to view whats on GCP for now!
 * CellPedia--https://stemcellinformatics.org
 * Cell Ontology--https://bioportal.bioontology.org/ontologies/CL
 
+    This ontology is not organism specific it covers cell types from prokaryotes to mammals. 
+
 ***
 ## Future modeling
 
