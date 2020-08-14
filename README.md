@@ -14,7 +14,7 @@ Click on the link to view whats on GCP for now!
       * IRIS -2005---downloads Done
       * Etienne Becht-2016-
       * Gabriela Bindea--Immunity-2013
-      * Alexandra-Chloé Villani,2018--Science -scRNAseq--(R.Satija)--downloads Done
+      * Alexandra-Chloé Villani,2018--Science -scRNAseq--(R.Satija)--downloads Done(Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors)
       
       To check:
       * Diego Calderon--Landscape of stimulation-responsive chromatin across diverse human immune cells--Nature Genetics--2019
