@@ -22,7 +22,7 @@ Click on the link to view whats on GCP for now!
       * Noa Novershtern-Densely interconnected transcriptional circuits control cell states in human hematopoiesis--2012 Cell
       
       
-* DICE --  
+* DICE --  Discuss
 
 * [Human Cell Atlas](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Human-Cell-Atlas-(HCA))--Discuss
 
