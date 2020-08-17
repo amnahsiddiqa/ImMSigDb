@@ -47,7 +47,11 @@ Click on the link to view whats on GCP for now!
 
 * CellPedia--https://stemcellinformatics.org
        
-       Pushed the markers data on GCP
+       Pushed the markers data on GCP--436individual markers in 27 Gene sets cell type based
+       
+       
+       
+       
 
 **Ontologies discussed**
 
