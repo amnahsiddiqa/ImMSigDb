@@ -14,7 +14,8 @@ Click on the link to view whats on GCP for now!
       * IRIS -2005---Up on GCP
       * Etienne Becht-2016-No time
       * Gabriela Bindea--Immunity-2013--No Time
-      * Alexandra-Chloé Villani,2018--Science -scRNAseq--(Aviv Regev)--downloads Done(Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors)--Done
+      * Alexandra-Chloé Villani,2018--Science -scRNAseq--(Aviv Regev)--downloads Done
+      (Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors)--Done
       
       To check: (laeving them for now)
       * Diego Calderon--Landscape of stimulation-responsive chromatin across diverse human immune cells--Nature Genetics--2019
@@ -23,6 +24,8 @@ Click on the link to view whats on GCP for now!
       
       
 * DICE --  UP on GCP
+
+   Schmiedel BJ, Singh D, Madrigal A, Valdovino-Gonzalez AG, White BM, Zapardiel-Gonzalo J, Ha B, Altay G, Greenbaum JA, McVicker G, Seumois G. Impact of genetic polymorphisms on human immune cell gene expression. Cell. 2018 Nov 29;175(6):1701-15.
 
 * [Human Cell Atlas](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Human-Cell-Atlas-(HCA))--Would come back later for 06 projects scRNAseq Data Papers I collected
 
