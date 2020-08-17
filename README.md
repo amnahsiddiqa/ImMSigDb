@@ -26,6 +26,22 @@ Click on the link to view whats on GCP for now!
 * DICE --  UP on GCP
 
    Schmiedel BJ, Singh D, Madrigal A, Valdovino-Gonzalez AG, White BM, Zapardiel-Gonzalo J, Ha B, Altay G, Greenbaum JA, McVicker G, Seumois G. Impact of genetic polymorphisms on human immune cell gene expression. Cell. 2018 Nov 29;175(6):1701-15.
+   
+      B cell, naive
+      Monocyte, classical
+      Monocyte, non-classical
+      NK cell, CD56dim CD16+
+      T cell, CD4, memory TREG
+      T cell, CD4, naive
+      T cell, CD4, naive [activated]
+      T cell, CD4, naive TREG
+      T cell, CD4, TFH
+      T cell, CD4, TH1
+      T cell, CD4, TH1/17
+      T cell, CD4, TH17
+      T cell, CD4, TH2
+      T cell, CD8, naive
+      T cell, CD8, naive [activated]
 
 * [Human Cell Atlas](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Human-Cell-Atlas-(HCA))--Would come back later for 06 projects scRNAseq Data Papers I collected
 
