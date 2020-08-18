@@ -6,7 +6,7 @@ ImmuneData is a NoSQL document-oriented database created using Cloud Firestore [
 Click on the link to view whats on GCP for now!
 * [InnateDB models](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/InnateDBModels)-- Done --Details to add
 * [LI BTMs](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Li-BTMs)--Done --Details to add
-* [Chaussabel-Modules]()--Done--Details to add
+* [Chaussabel-Modules](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/ChaussabelModules)--Done--Details to add
 * Nature immunology review John Wherry, U penn,  immunotherapy gene sets
 * [CELL MARKER DB](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/CellMarker_Data)--Done
 * [Monaco et al 2019](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Monaco-et-al-(2019))-- cell reports rna seq deconvolution data --Done details to add
