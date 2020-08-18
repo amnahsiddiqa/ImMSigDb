@@ -14,7 +14,7 @@ Click on the link to view whats on GCP for now!
       * IRIS -2005---Up on GCP
       * Etienne Becht-2016-No time
       * Gabriela Bindea--Immunity-2013--No Time
-      * Alexandra-Chloé Villani,2018--Science -scRNAseq--(Aviv Regev)--downloads Done
+      * Alexandra-Chloé Villani,2018--Science -scRNAseq--(Aviv Regev)-- Up on GCP
       (Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors)--Done
       
       To check: (laeving them for now)
