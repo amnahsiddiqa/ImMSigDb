@@ -1,4 +1,4 @@
-## IGSdb-Immune Gene Signatures Database
+## IGSdb-Immune Gene Signatures Database or ImmFeSdb-Immune Features Sets/Signatures Database
 IGSdb is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information on CloudThingies like --SettingupSDKandFirebaseForProjects
 
 This is an ensemble of gene sets which were contextually curated from immunology data in individual efforts and are acquired from either in-house data or from   public domain. IGSdb means to provide immunology context rich feature sets from heterogeneous resources for enrichment analysis and/or multivariate data association analysis conveneiently in one standardized format in one place. Some examples of usage are here.
