@@ -1,91 +1,24 @@
 ## ImmFeSdb-Immune Features Sets/Signatures Database 
 
-Keeping it open for not just genes as features - any features types (for future modeling e.g. metabolomics etc) in context with immunology 
+Note: Keeping it open for not just genes as features - any features types (for future modeling e.g. metabolomics etc) in context with immunology association. 
 
-(Another brainstormed sugesstion: IGSdb-Immune Gene Signatures Database - No! because Find out that there are 02 R packages names like thuis John's group for HIPC data)
+(Another brainstormed sugesstion: IGSdb-Immune Gene Signatures Database - No! because Find out that there are 02 R packages names )
+
 
 ImmFeSdb  is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information on CloudThingies like --SettingupSDKandFirebaseForProjects
 
-This is an ensemble of gene sets which were contextually curated from immunology data in individual efforts and are acquired from either in-house data or from   public domain. ImmFeSdb means to provide immunology context rich feature sets from heterogeneous resources for enrichment analysis and/or multivariate data association analysis conveneiently in one standardized format in one place. 
+This is an ensemble of Features (genes initially) sets which were contextually curated from immunology data in individual efforts and are acquired from either in-house data or from public domain. ImmFeSdb means to provide immunology context rich feature sets from heterogeneous resources to be used for enrichment analysis and/or multivariate data association analysis conveneiently in one standardized format in one place to facilitate immunology commmunity.
 
 
+## Types of Features set Models in DB
 
-Some examples of usage are here.
+Based on the sources we fetch data from, we could use two out of teh given options to organize data in firestore:
 
+1- Pathways: features, interaction, pathway, network
 
-**Details on Added Data**
-Click on the link to view whats on GCP for now!
-* [InnateDB models](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/InnateDBModels)-- Done --Details to add
-* [LI BTMs](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Li-BTMs)--Done --Details to add
-* [Chaussabel-Modules](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/ChaussabelModules)--Done--Details to add
-* Nature immunology review John Wherry, U penn,  immunotherapy gene sets
-* [CELL MARKER DB](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/CellMarker_Data)--Done
-* [Monaco et al 2019](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Monaco-et-al-(2019))-- cell reports rna seq deconvolution data --Done details to add
+2- Feature Sets from experiments/ markers type data resources which do not hold interaction type of information basically: source (project/experiment etc), features, features sets (based on experimental ontology- like the panels used , gating mechanisms used etc in case of cell data) 
 
-      * IRIS -2005---Up on GCP
-      * Etienne Becht-2016-No time
-      * Gabriela Bindea--Immunity-2013--No Time
-      * Alexandra-Chloé Villani,2018--Science -scRNAseq--(Aviv Regev)-- Up on GCP
-      (Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors)--Done
-      
-      To check: (laeving them for now)
-      * Diego Calderon--Landscape of stimulation-responsive chromatin across diverse human immune cells--Nature Genetics--2019
-      * Biola M. Javierre--Lineage-Specific Genome Architecture Links Enhancers and Non-coding Disease Variants to Target Gene Promoters--2016
-      * Noa Novershtern-Densely interconnected transcriptional circuits control cell states in human hematopoiesis--2012 Cell
-      
-      
-* DICE --  UP on GCP
-
-   Schmiedel BJ, Singh D, Madrigal A, Valdovino-Gonzalez AG, White BM, Zapardiel-Gonzalo J, Ha B, Altay G, Greenbaum JA, McVicker G, Seumois G. Impact of genetic polymorphisms on human immune cell gene expression. Cell. 2018 Nov 29;175(6):1701-15.
-   
-      B cell, naive
-      Monocyte, classical
-      Monocyte, non-classical
-      NK cell, CD56dim CD16+
-      T cell, CD4, memory TREG
-      T cell, CD4, naive
-      T cell, CD4, naive [activated]
-      T cell, CD4, naive TREG
-      T cell, CD4, TFH
-      T cell, CD4, TH1
-      T cell, CD4, TH1/17
-      T cell, CD4, TH17
-      T cell, CD4, TH2
-      T cell, CD8, naive
-      T cell, CD8, naive [activated]
-
-* [Human Cell Atlas](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Human-Cell-Atlas-(HCA))--Would come back later for 06 projects scRNAseq Data Papers I collected
-
-* CellPedia--https://stemcellinformatics.org
-       
-       Pushed the markers data on GCP--436individual markers in 27 Gene sets cell type based
-       
-       
-       
-       
-
-**Ontologies discussed**
-
-* CellPedia--https://stemcellinformatics.org
-       has taxonomy and markers data
-       
-* Cell Ontology--https://bioportal.bioontology.org/ontologies/CL
-
-    This ontology is not organism specific it covers cell types from prokaryotes to mammals. 
-
-***
-## Future modeling
-
-*  scRNA seq---Pipeline (GitHub--pipeline--working) ---prediction --data sets ---- using GRN inference algorithms 
-* Li BTMs new version--Discuss
-
-## Check scrNA seq Data here
-https://www.ebi.ac.uk/gxa/sc/experiments
-
-***
-## Connecting VCS with GCP -- Github for myself
-Adding directly my git repo to monitor staging and version releases scripts for data for now.
-Demonstration [here](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki/Mirror-Git-repo)
+3- Hybrid: to discuss BTM models 
 
 ***
 # Table of Contents
