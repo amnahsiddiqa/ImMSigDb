@@ -31,7 +31,7 @@ Based on the sources we fetch data from, we could use two out of teh given optio
 # Table of Contents
 * [Home](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki)
 
-* [Adding data to FireStore]
+* [Adding data to FireStore](https://github.com/amnahsiddiqa/ImmFeSdb/wiki/Adding-data-to-Firestore)
 
 * [Feature Sets]
 
