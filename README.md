@@ -20,6 +20,13 @@ Based on the sources we fetch data from, we could use two out of teh given optio
 
 3- Hybrid: to discuss BTM models 
 
+### Components: 
+- List of pathways/Modules:  A pathway is defined by the interactions (physical, co-expression, casual etc)  in the pathway/modules. 
+- List of Feature Sets: Feature set is  defined by an annotated features list classified based on some ontology used in experiments e.g. cell type classification based on DEGs etc specifying cell markers.
+- List of Interactions:  An interaction is minimally defined by source and target nodes/features.  Ontology , Synonym ids,  tissue, species could be additional infromation.
+- List of genes with HUGO gene symbols.
+
+
 ***
 # Table of Contents
 * [Home](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki)
