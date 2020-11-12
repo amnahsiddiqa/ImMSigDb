@@ -33,7 +33,7 @@ Based on the sources we fetch data from, we could use two out of teh given optio
 
 * [Adding data to FireStore](https://github.com/amnahsiddiqa/ImmFeSdb/wiki/Adding-data-to-Firestore)
 
-* [Feature Sets]ImmFesdb-proto-v1
+* [Feature Sets] ImmFeSdb-proto-v1
 
 * [Using In Enrichment Analysis: Example]
 
