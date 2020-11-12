@@ -1,7 +1,16 @@
-## IGSdb-Immune Gene Signatures Database or ImmFeSdb-Immune Features Sets/Signatures Database
-IGSdb is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information on CloudThingies like --SettingupSDKandFirebaseForProjects
+## ImmFeSdb-Immune Features Sets/Signatures Database 
 
-This is an ensemble of gene sets which were contextually curated from immunology data in individual efforts and are acquired from either in-house data or from   public domain. IGSdb means to provide immunology context rich feature sets from heterogeneous resources for enrichment analysis and/or multivariate data association analysis conveneiently in one standardized format in one place. Some examples of usage are here.
+Keeping it open for not just genes as features - any features types (for future modeling e.g. metabolomics etc) in context with immunology 
+
+(Another brainstormed sugesstion: IGSdb-Immune Gene Signatures Database - No! because Find out that there are 02 R packages names like thuis John's group for HIPC data)
+
+ImmFeSdb  is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information on CloudThingies like --SettingupSDKandFirebaseForProjects
+
+This is an ensemble of gene sets which were contextually curated from immunology data in individual efforts and are acquired from either in-house data or from   public domain. ImmFeSdb means to provide immunology context rich feature sets from heterogeneous resources for enrichment analysis and/or multivariate data association analysis conveneiently in one standardized format in one place. 
+
+
+
+Some examples of usage are here.
 
 
 **Details on Added Data**
