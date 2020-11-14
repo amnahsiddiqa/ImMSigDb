@@ -11,11 +11,11 @@ This is an ensemble of Features (genes initially) sets which were contextually c
 
 Based on the sources we fetch data from, we could use two out of teh given options to organize data in firestore:
 
-1- Pathways: features, interaction, pathway, network
+1- Pathways: features, interaction, pathway, network (These can be used as feature Sets as well but since ther were intially having interactions we would model them too)
 
 2- Feature Sets from experiments/ markers type data resources which do not hold interaction type of information basically: source (project/experiment etc), features, features sets (based on experimental ontology- like the panels used , gating mechanisms used etc in case of cell data) 
 
-3- Hybrid: to discuss BTM models 
+
 
 ### Components: 
 - List of pathways/Modules:  A pathway is defined by the interactions (physical, co-expression, casual etc)  in the pathway/modules. 
