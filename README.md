@@ -1,4 +1,4 @@
-## ImmFeSdb-Immune Features Sets/Signatures Database 
+## ImmFeSDb-Immune Features Sets/Signatures Database 
 
 Note: Keeping it open for not just genes as features - any features types (for future modeling e.g. metabolomics etc) in context with immunology association. 
 
@@ -6,6 +6,8 @@ ImmFeSdb  is a NoSQL document-oriented database created using Cloud Firestore [I
 
 This is an ensemble of Features (genes initially) sets which were contextually curated from immunology data in individual efforts and are acquired from either in-house data or from public domain. ImmFeSdb means to provide immunology context rich feature sets from heterogeneous resources to be used for enrichment analysis and/or multivariate data association analysis to facilitate immunology commmunity. 
 
+
+ImmFeS - for R package providing the Feature Sets
 
 ## Types of Features set Models in DB
 
