@@ -1,13 +1,13 @@
-## ImmFeSDb-Immune Features Sets/Signatures Database 
+## ImMSigDb-Immune Models and Signatures Database 
 
 Note: Keeping it open for not just genes as features - any features types (for future modeling e.g. metabolomics etc) in context with immunology association. 
 
-ImmFeSdb  is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information on CloudThingies like --SettingupSDKandFirebaseForProjects
+ImMSigDb  is a NoSQL document-oriented database created using Cloud Firestore [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information on CloudThingies like --SettingupSDKandFirebaseForProjects
 
-This is an ensemble of Features (genes initially) sets which were contextually curated from immunology data in individual efforts and are acquired from either in-house data or from public domain. ImmFeSdb means to provide immunology context rich feature sets from heterogeneous resources to be used for enrichment analysis and/or multivariate data association analysis to facilitate immunology commmunity. 
+ImMSigDb means to provide immunology context rich feature sets from heterogeneous resources to be used for enrichment analysis and/or multivariate data association analysis to facilitate immunology commmunity. 
 
 
-ImmFeSR - for R package providing the Feature Sets
+ImMSigDbR - for R package providing the Feature Sets
 
 ## Types of Features set Models in DB
 
@@ -32,7 +32,7 @@ Based on the sources we fetch data from, we could use two out of teh given optio
 
 * [Adding data to FireStore](https://github.com/amnahsiddiqa/ImmFeSdb/wiki/Adding-data-to-Firestore)
 
-* [Feature Sets] ImmFeSdb-proto-v1
+* [Feature Sets] ImMSigDb-proto-v1
 
 * [Using In Enrichment Analysis: Example]
 
