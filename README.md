@@ -1,6 +1,6 @@
 ## ImMSigDb - Immune Models and Signatures Database 
 
-- ImMSigDb  is a NoSQL document-oriented database created using Cloud Firestore ( see [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information such as --SettingupSDKandFirebaseForProjects).
+- ImMSigDb  is a NoSQL document-oriented database created using Cloud Firestore ( see [Intro to Firestore](https://firebase.google.com/docs/firestore) or [wiki of this git repo](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki) for more information).
 
 - ImMSigDb means to provide immunology context rich feature sets from heterogeneous resources to be used for enrichment analysis and/or multivariate data association analysis to facilitate immunology commmunity. 
 
