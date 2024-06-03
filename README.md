@@ -41,7 +41,7 @@ The database follows a biannual update model. The last update was made in ? June
 
 * [Home](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki)
 * [Adding data to ImMSigDb]()
-* [Current release, ImMSigDb_v0.0.0](https://github.com/amnahsiddiqa/ImMSigDb/wiki)
+* [Current release, ImMSigDb_v0.0.0](https://github.com/amnahsiddiqa/ImMSigDb/tree/master/V0.0.0)
 * [Applications: Example] (This is a work in progress)
   
 
