@@ -33,7 +33,7 @@ Based on the heterogeneous collections and sources from which the data is fetche
 
 ## Data Updates
 
-The database follows a biannual update model. The last update was made in June 3rd 2024 and a json file for now can be downloaded from untill the dashboard is made avaialible in Sep 2024.
+The database follows a biannual update model. The last update was made in June 3rd 2024 and json dumps can be downloaded from [here](https://github.com/amnahsiddiqa/ImMSigDb/tree/master/V0.0.0) untill the dashboard is made avaialible in Sep 2024.
 
 ---
 
