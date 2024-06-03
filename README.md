@@ -24,7 +24,7 @@ Based on the heterogeneous collections and sources from which the data is fetche
 ### Current Data in ImMSigDb
 
 * The full Firestore database can be downloaded in JSON format from ImMSigDb_v0.0.0.
-* For datasets served, see [Datasets served](https://github.com/amnahsiddiqa/ImMSigDb/)
+* For datasets served, see [Datasets served](https://github.com/amnahsiddiqa/ImMSigDb/wiki)
 
 ## Data Updates
 
