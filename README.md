@@ -40,7 +40,7 @@ The database follows a biannual update model. The last update was made in ? June
 # Table of Contents
 
 * [Home](https://github.com/amnahsiddiqa/GCPFirebase_ImmuneData/wiki)
-* [Adding data to FireStore](https://github.com/amnahsiddiqa/ImmFeSdb/wiki/Adding-data-to-Firestore)
+* [Adding data to ImMSigDb]()
 * [Current release, ImMSigDb_v0.0.0](https://github.com/amnahsiddiqa/ImMSigDb/wiki)
 * [Applications: Example] (This is a work in progress)
   
