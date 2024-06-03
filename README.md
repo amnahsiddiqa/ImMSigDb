@@ -8,7 +8,7 @@
 
 **Under Development**
 
-**ImMSigDbR:** An R package for feature set enrichment analysis is under active development, with an estimated release date of September 2024. The goal is to offer a single resource for easy and valuable visualizations and analyses using these (and/or others) features sets with minimal effort.
+**ImMSigDbR:** An R package for feature set enrichment analysis is under active development, with an estimated release date of September 2024. The goal is to offer a single resource for easy and insightful visualizations and analyses using these (and/or others) features sets with minimal effort.
 
 **Age related PBMC Immune Signatures** [Under dev](https://github.com/amnahsiddiqa/ImMSigDb/wiki/Age-related-PBMC-Immune-Signatures)
 
