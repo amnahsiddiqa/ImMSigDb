@@ -33,9 +33,5 @@ Based on the heterogeneous collections and sources the data is fetched from, two
 
 * [Current release] ImMSigDb_v0.0.0
 
-* [Using In Enrichment Analysis: Example]
-
-
-
-* This is a work in progress
+* [Using In Enrichment Analysis: Example] (This is a work in progress)
 
