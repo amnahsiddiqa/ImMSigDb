@@ -16,8 +16,10 @@ Based on the heterogeneous collections and sources from which the data is fetche
 
 1. **Pathways/Networks:**
 
-   * **Components:** Features, interactions (Since, initially these includes interaction data, so we will model the interactions comprehensively as well)
-2. **Features Sets:****Components:** Features (Derived from experiments or marker-type data resources that do not contain interaction information)
+   **Components:** Features, interactions (Since, initially these includes interaction data, so we will model the interactions comprehensively as well)
+2. **Features Sets:**
+   
+   **Components:** Features (Derived from experiments or marker-type data resources that do not contain interaction information)
 
    **Organization:** Organization of components include a standardized data structure from both types of data sources which shall use a minimum annotation and would be updated using nextflow pipeline biannually.  
 
