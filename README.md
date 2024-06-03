@@ -38,6 +38,6 @@ The database follows a biannual update model. The last update was made in ? June
 * [Adding data to FireStore](https://github.com/amnahsiddiqa/ImmFeSdb/wiki/Adding-data-to-Firestore)
 * [Current release] ImMSigDb_v0.0.0
 * [Using In Enrichment Analysis: Example] (This is a work in progress)
-* 
+  
 
 Suggestions and contributions are welcome!!
