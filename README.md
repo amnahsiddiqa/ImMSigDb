@@ -19,7 +19,7 @@ Based on the heterogeneous collections and sources from which the data is fetche
 
 1. **Pathways/Networks:**
 
-   **Components:** Features, interactions (Since, initially these include interaction data, so we will model the interactions comprehensively as well)
+   **Components:** Features, interactions (Since, initially these include interaction data, so we will model the interactions comprehensively as well e.g. pathways models)
 2. **Features Sets:**
    
    **Components:** Features (Derived from experiments or marker-type data resources that do not contain interaction information)
